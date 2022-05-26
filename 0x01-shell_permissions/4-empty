@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 #!/bin/bash
->>>>>>> 0a93e628b06980019dbd0f2db41a6959c450fb76
 touch hello
+
